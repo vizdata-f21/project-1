@@ -6,6 +6,8 @@ labels: ''
 assignees: ''
 ---
 
+The following is the peer review of the project proposal by [Team name]. The team members that participated in this review are [Full names of team members].
+
 - Describe the goal of the project.
 
 
