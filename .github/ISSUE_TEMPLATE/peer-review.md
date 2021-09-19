@@ -2,9 +2,8 @@
 name: Peer review
 about: Peer review of project proposal
 title: Peer review
-labels: peer-review
+labels: ''
 assignees: ''
-
 ---
 
 - Describe the goal of the project.
