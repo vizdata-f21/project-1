@@ -1,8 +1,8 @@
 ---
 name: Peer review
-about: Peer review
+about: Peer review of project proposal
 title: Peer review
-labels: ''
+labels: peer-review
 assignees: ''
 
 ---
